@@ -33,7 +33,7 @@
 ## 🚀 How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/PriyankaB828/netflix-clone-react.git
+   git clone https://github.com/PriyankaB828/Netflix-Clone.git
 2.Navigate to project folder
    
    cd netflix-clone-react
@@ -44,4 +44,4 @@
 
 4.Start the app
   
-   npm start
+   npm run dev
