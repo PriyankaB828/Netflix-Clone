@@ -22,6 +22,8 @@
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f752d53-ea7a-4bd7-8763-d3ffca591a12" />
+<img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/37ba8d0e-8157-42b7-bf08-c06aa43e63db" />
 
 
 ---
@@ -31,10 +33,13 @@
    ```bash
    git clone https://github.com/PriyankaB828/netflix-clone-react.git
 2.Navigate to project folder
+   
    cd netflix-clone-react
 
 3.Install dependencies
+  
    npm install
 
 4.Start the app
+  
    npm start
